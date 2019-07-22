@@ -1,17 +1,18 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>groupxen</groupId>
   <artifactId>coreapp</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>coreapp</name>
 
   <url>http://maven.apache.org</url>
 
 <scm>
-   <connection>scm:git:https://github.com/PaulPJose/Groupxen_coreapp.git</connection>
-   <developerConnection>scm:git:https://github.com/PaulPJose/Groupxen_coreapp.git</developerConnection>
-     <tag>coreapp-1.0</tag>
+   <connection>scm:git:https://github.com/PaulPJose/groupxen.git</connection>
+   <developerConnection>scm:git:https://github.com/PaulPJose/groupxen.git</developerConnection>
+     <tag>HEAD</tag>
   </scm>
    
    
